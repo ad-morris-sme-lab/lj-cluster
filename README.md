@@ -54,7 +54,7 @@ This project provides a small, reproducible Python implementation of the pairwis
   title = {Lennard-Jones Cluster Energy},
   version = {1.0.0},
   year = {2026},
-  url = {https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME}
+  url = {https://github.com/ad-morris-sme-lab/lj-cluster}
 }
 ```
 
